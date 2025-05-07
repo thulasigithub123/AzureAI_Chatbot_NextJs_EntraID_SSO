@@ -1,10 +1,18 @@
-# 🤖📚 GPT-4 RAG Document-Aware Chatbot using Azure AI Studio, Next JS + EntraID SSO authentication 📄🔍☁️
+# 🤖📚 GPT-4 RAG Document-Aware Chatbot using Azure AI Foundry, Next JS + EntraID SSO authentication 📄🔍☁️
  
+ ![alt text](<Azure AI_GPT4_RAG_NextJs_EntraSSO.gif>)
 ## 🧠 Overview
 
 This project implements a **Retrieval-Augmented Generation (RAG)** chatbot using **GPT-4** via **Azure AI**, where answers are strictly grounded in uploaded documents. It was designed for real-world use cases like **Country specific driving license guidance**, ensuring factual, document-based responses with no hallucinations.
 
 ---
+![alt text](image-96.png)
+
+![alt text](image-95.png)
+
+![alt text](image-94.png)
+
+![alt text](image-97.png)
 
 ## 📍 Use Case:  Driving Info Bot
 
